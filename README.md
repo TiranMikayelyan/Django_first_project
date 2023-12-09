@@ -1,2 +1,2 @@
 # Django_first_site
-its my first project
+It's my first project
